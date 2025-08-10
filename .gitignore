@@ -1,0 +1,11 @@
+# Frontend dependencies
+frontend/node_modules/
+frontend/dist/
+
+backend/venv/
+backend/__pycache__/
+backend/job_tracker.db
+
+.vscode/
+
+.env
